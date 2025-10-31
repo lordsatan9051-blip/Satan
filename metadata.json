@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Gemini Kids Voice Pal",
+  "description": "An interactive learning and translator app for kids, powered by Gemini. Features real-time voice translation, image-based word learning, a multi-modal chatbot, and more to make learning fun and engaging.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
